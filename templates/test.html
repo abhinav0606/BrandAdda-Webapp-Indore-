@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Product Details</title>
+</head>
+<body style="text-align:center;">
+<form action="/product_detail" method="post">
+    <input name="order" id="order"><br>
+    <button type="submit">Submit</button>
+</form>
+{% if product%}
+<p>Name:{{product[t]["Name"]}}</p>
+<p>Name:{{product[t]["Price"]}}</p>
+<img src="{{product[t]['image_link']}}">
+{%endif%}
+</body>
+
+</html>
