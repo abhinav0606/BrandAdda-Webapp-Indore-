@@ -1,0 +1,32 @@
+{
+     "101T": {
+          "Name": "Eyes Tshirt",
+          "Price": "299/-",
+          "image_link": "https://raw.githubusercontent.com/abhinav0606/BrandAdda-Webapp-Indore-/main/tshirts/WhatsApp%20Image%202020-11-17%20at%2012.14.07%20PM%20(1).jpeg"
+     },
+     "102T": {
+          "Name": "Jerry Tshirt",
+          "Price": "199/-",
+          "image_link": "https://raw.githubusercontent.com/abhinav0606/BrandAdda-Webapp-Indore-/main/tshirts/WhatsApp%20Image%202020-11-17%20at%2012.14.06%20PM%20(1).jpeg"
+     },
+     "103T": {
+          "Name": "Pandas",
+          "Price": "299/-",
+          "image_link": "https://raw.githubusercontent.com/abhinav0606/BrandAdda-Webapp-Indore-/main/tshirts/WhatsApp%20Image%202020-11-17%20at%2012.14.04%20PM.jpeg"
+     },
+     "104T": {
+          "Name": "Born to Kill",
+          "Price": "299/-",
+          "image_link": "https://raw.githubusercontent.com/abhinav0606/BrandAdda-Webapp-Indore-/main/tshirts/WhatsApp%20Image%202020-11-17%20at%2012.14.06%20PM.jpeg"
+     },
+     "105T": {
+          "Name": "Dope",
+          "Price": "299/-",
+          "image_link": "https://raw.githubusercontent.com/abhinav0606/BrandAdda-Webapp-Indore-/main/tshirts/WhatsApp%20Image%202020-11-17%20at%2012.13.59%20PM.jpeg"
+     },
+     "106T": {
+          "Name": "Superman",
+          "Price": "299/-",
+          "image_link": "https://raw.githubusercontent.com/abhinav0606/BrandAdda-Webapp-Indore-/main/tshirts/WhatsApp%20Image%202020-11-17%20at%2012.14.07%20PM%20(3).jpeg"
+     }
+}

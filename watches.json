@@ -1,0 +1,12 @@
+{
+     "101W": {
+          "Name": "Rolex",
+          "Price": "499/-",
+          "image_link": "https://raw.githubusercontent.com/abhinav0606/BrandAdda-Webapp-Indore-/main/watches/watch1.png"
+     },
+     "102W": {
+          "Name": "G-shock",
+          "Price": "499/-",
+          "image_link": "https://raw.githubusercontent.com/abhinav0606/BrandAdda-Webapp-Indore-/main/watches/watch2.png"
+     }
+}
